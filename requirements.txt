@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain_community
+langchain_core
+langchain-openai
+langchain-google-genai
+langchain-mistralai
+langchain-groq
+pypdf
+langchain_text_splitters
+chromadb
+langchain_chroma
+langgraph
